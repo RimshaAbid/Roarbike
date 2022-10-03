@@ -1,0 +1,103 @@
+
+.col-12{
+	float: right;
+}
+.continer .navi{
+	color: #000;
+	font-size: 20px;
+	padding: 13px;
+}
+
+
+.continer{
+	border-bottom:1px solid #ccc;
+	padding: 0; 
+}
+.svg{
+	margin: 15px;
+}
+
+
+
+.badge{
+	padding: 2px;
+    height: 12px;
+    width: 12px;
+    font-size: 8px;
+    margin-top: 2px;
+}
+#all
+{
+	background-color: black;
+	color: #fff;
+}
+#tab{
+	background-color: black;
+	color: #fff;
+}
+.butn{
+	background-color: #000;
+	color: #fff;
+	margin-bottom: 35px;
+
+}
+.col-4{
+	border-bottom:1px solid #ccc; 
+	margin-bottom: 142px;
+	padding: 0;
+}
+small{
+    margin-left: -223px;
+    margin-top: -87px;
+}
+#img{
+	margin-left: 0px; 
+}
+#imag{
+	margin-left: 0px;
+	margin-top: 50px;
+}
+label{
+	margin-top: 7px;
+	margin-bottom: 5px;
+}
+h2{
+	margin-top: 40px;
+    border-bottom-right-radius: 99px;
+    border: 1px solid yellow;
+    background: #ffd400;
+    width: 163px;
+    border-bottom-left-radius: 36px;
+    border-top-left-radius: 31px;
+    border-top-right-radius: 31px;
+    padding: 15px;
+}
+footer{
+	background-color: #000;
+	color: #fff;
+}
+footer ul li{
+	list-style: none;
+}
+footer ul li a{
+	text-decoration: none;
+	color: #fff;
+
+}
+#footer{
+	padding-top: 60px;
+    line-height: 38px;
+}
+footer button{
+
+    background: #fff;
+    margin-left: -5px;
+    font-size: 20px;
+}
+footer input{
+	background: #fff;
+    border: 1px solid transparent;
+    padding: 0px;
+    padding-left: 5px;
+    font-size: 20px;
+}

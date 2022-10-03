@@ -1,0 +1,90 @@
+.navbar-brand{
+	padding-right: 100px;
+    padding-left: 65px;
+    font-weight: bold;
+    font-family: serif;
+}
+.nav-link{
+	font-size: 18px;
+    font-weight: bold;
+    font-family: serif;
+}
+b{
+	font-size: 23px;
+    font-family: sans-serif;
+    letter-spacing: -2px;
+}
+
+
+.col-12{
+	float: right;
+}
+.continer .navi{
+	color: #000;
+	font-size: 20px;
+	padding: 13px;
+}
+#container{
+    border: 1px solid orange;
+    margin-top: 380px;
+    margin-left: 112px;
+    background: #ffc800ad;
+    border-bottom-left-radius: 150px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 60px;
+    width: 840px;
+    border-width: 0px;
+    padding-left: 144px;
+    padding-top: 35px;
+    padding-bottom: 20px;
+    color: #fff;
+
+}
+strong{
+    letter-spacing: -1px;
+    margin: 60px;
+    font-size: 21px;
+}
+h1{
+	font-size: 45px;
+    font-weight: bold;
+}
+
+.continer{
+	
+	padding: 0; 
+}
+.svg{
+	margin: 15px;
+}
+
+
+
+.badge{
+	padding: 2px;
+    height: 12px;
+    width: 12px;
+    font-size: 8px;
+    margin-top: 2px;
+}
+h2{
+	letter-spacing: -2px;
+	font-weight: bold;
+
+}
+p{
+	line-height: 25px;
+}
+h3{
+	letter-spacing: -3px;
+    font-weight: 700;
+}
+#h3{
+	letter-spacing: -2px;
+    font-weight: 500;
+}
+#footer{
+	background-color: #ffd400;
+	
+}
